@@ -1,0 +1,1 @@
+This program converts RGB format to hexadecimal (Hex) code.
